@@ -1,0 +1,11 @@
+.c1{
+    transition: .15s ease-in;
+    text-decoration: none;
+}
+.c1:hover{
+    transform: scale(1.05);
+}
+
+#l1{
+    text-decoration: none;
+}
